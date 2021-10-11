@@ -1,0 +1,63 @@
+.hero{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0, 0, 0, 0.3)),url("../img/hhh.jpg");
+    background-position: center;
+    background-size: cover;
+    overflow-x: hidden;
+    position: relative;
+    opacity: 350%;
+}
+.nav-bar{
+    display: flex;
+    padding: 30px 30px;
+    border: 2px solid #495057;
+    background-color: #373b3e;
+}
+.nav-name h1{
+    width:350px;
+    height: 50px;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    padding-left: -4px;
+}
+.nav-links{
+    flex: 1;
+    position: absolute;
+    margin: auto;
+    right: 20px;
+}
+.nav-links ul{
+    display: inline;
+}
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+}
+.nav-links ul a{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.alert1{
+    position: absolute;
+    width: 450px;
+    height: 50px;
+    top: 600px;
+    left:80px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.alert2{
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 600px;
+    right:80px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.active>li a:hover{
+    background: #495057;
+}
