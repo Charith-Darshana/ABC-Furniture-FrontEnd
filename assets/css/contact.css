@@ -1,0 +1,49 @@
+.ctcImg{
+    height: 65vh;
+    width: 50vw;
+    left: 550px;
+    top: 200px;
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0, 0, 0, 0.3)),url("../img/map.jpg");
+    background-size: cover;
+    overflow-x: hidden;
+    position : fixed;
+    opacity: 350%;
+}
+.active1{
+    width: 250px;
+    height: 40px;
+    position: absolute;
+    left: 120px;
+    top: 180px;
+}
+.active2{
+    width: 250px;
+    height: 40px;
+    position: absolute;
+    left: 120px;
+    top: 250px;
+}
+.active3{
+    width: 250px;
+    height: 40px;
+    position: absolute;
+    left: 120px;
+    top: 320px;
+}
+.active4{
+    width: 250px;
+    height: 100px;
+    position: absolute;
+    left: 120px;
+    top: 420px;
+}
+.btn{
+    background : green;
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    left: 205px;
+    top: 600px;
+    font-weight: bold;
+    color: white;
+}
