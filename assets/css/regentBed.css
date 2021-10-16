@@ -1,0 +1,32 @@
+.img{
+    top: 50px;
+    margin: 50px;
+    height: 400px;
+}
+.hTxt{
+    position: absolute;
+    font-weight: bold;
+    right: 500px;
+    top: 200px;
+}
+.suite{
+    position: absolute;
+    right: 550px;
+    top: 250px;
+}
+.price{
+    position: absolute;
+    right: 450px;
+    top: 250px;
+}
+.hTxt2{
+    position: absolute;
+    font-weight: bold;
+    right: 580px;
+    top: 400px;
+}
+.desc{
+    position: absolute;
+    top:420px;
+    right: 300px;
+}
