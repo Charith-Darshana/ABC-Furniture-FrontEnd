@@ -86,3 +86,23 @@
     color: #6c757d;
     cursor: pointer;
 }
+.ftr{
+    position : absolute;
+    background: #495057;
+    width: 320px;
+    bottom: 20px;
+    left : 125px;
+    font-weight: lighter;
+    color: white;
+    font-size: 25px;
+}
+.ftr1{
+    position : absolute;
+    background: #495057;
+    width: 200px;
+    bottom: 20px;
+    right : 125px;
+    font-weight: lighter;
+    color: white;
+    font-size: 25px;
+}
